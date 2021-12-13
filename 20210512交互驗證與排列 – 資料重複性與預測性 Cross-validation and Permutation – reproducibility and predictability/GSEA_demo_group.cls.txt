@@ -1,0 +1,3 @@
+10 2 1
+# Cancer Normal
+Cancer Cancer Cancer Cancer Cancer Normal Normal Normal Normal Normal
